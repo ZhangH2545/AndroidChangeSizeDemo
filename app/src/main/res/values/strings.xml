@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppSize</string>
+    <string name="app_text">我在清华等你！</string>
+    <string name="app_back">返回</string>
+    <string name="app_close">关闭</string>
+    <string name="app_set">设置</string>
+</resources>

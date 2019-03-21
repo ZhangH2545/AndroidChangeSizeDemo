@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="_333333">#333333</color> <!--主色深-->
+    <color name="_F9F9F9">#F9F9F9</color> <!--背景色-->
+    <color name="_e2e2e2">#e2e2e2</color> <!--分割线颜色-->
+</resources>
