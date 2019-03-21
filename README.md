@@ -1,0 +1,4 @@
+# AndroidChangeSizeDemo
+仿微信调整全局字体大小
+如果app项目页面很多的话不建议将Resources getResources()放在BaseActivity中，因为所有activity都是继承Baseactivity就会导致页面创建卡顿；
+可以写在Application中
